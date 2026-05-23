@@ -13,3 +13,6 @@ Business Informatics student exploring the world of technology and data. Learnin
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=batmanchikneogurchik&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+![snake gif](https://github.com/batmanchikneogurchik/batmanchikneogurchik/blob/output/github-snake-dark.svg)
