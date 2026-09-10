@@ -12,8 +12,7 @@ Business Informatics student exploring the world of technology and data. Learnin
 ![](https://streak-stats.demolab.com/?user=batmanchikneogurchik&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=batmanchikneogurchik&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=batmanchikneogurchik&icon=0&color=12)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
