@@ -1,5 +1,5 @@
 # 💫 About Me:
-Business Informatics student exploring the world of technology and data. Learning Python, SQL, HTML, CSS, and JavaScript while building a strong foundation in programming and web development. Always improving and open to new challenges.
+Business Informatics student exploring the world of technology and data. Learning Python, SQL, HTML, and CSS while building a strong foundation in programming and web development. Always improving and open to new challenges.
 
 
 ## 🌐 Socials:
